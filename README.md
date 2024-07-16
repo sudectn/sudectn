@@ -9,26 +9,30 @@
 </p>
 
 ## Hakkımda
-- 🔭 Şu anda üzerinde çalışıyorum: ERP Develop
-- 🌱 Şu anda öğreniyorum: ChatGPT API using
-- 📫 Bana ulaşın: [E-posta adresiniz]
+- 🔭 Working on: ERP Develop
+- 🌱 Learning: ChatGPT API using
+- 🗣️ Languages: English B2
+- 📫 Contact me: [E-posta adresiniz]
 
-## Öne Çıkan Projeler
+## Projects
 [![Proje Adı](https://github-readme-stats.vercel.app/api/pin/?username=kullanıcıadınız&repo=projeadı)](https://github.com/kullanıcıadınız/projeadı)
 
-## GitHub İstatistikleri
+<!--## GitHub İstatistikleri
 ![Kullanıcı Adı'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
-
+-->
 ## Kullandığım Teknolojiler
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
-![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=HTML)
-![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-EE3A24?style=flat-square&logo=autodesk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
 
 ## Bağlantılar
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kullanıcıadınız/)](https://www.linkedin.com/in/sude-çetin-4492a9298)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kullanıcıadınız/)](www.linkedin.com/in/sude-çetin-4492a9298)
 
 <!--## Blog Yazıları
 - [Makale 1](https://blogsite.com/makale1)
