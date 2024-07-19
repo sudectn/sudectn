@@ -15,7 +15,7 @@
 - 📫 Contact me: [E-posta adresiniz]
 
 ## Projects
-[![Proje Adı]()](https://github.com/sudectn/Fruit-Recognition-with-ML#)
+[![Proje Adı](README.md)](https://github.com/sudectn/Fruit-Recognition-with-ML#)
 
 <!--## GitHub İstatistikleri
 ![Kullanıcı Adı'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
