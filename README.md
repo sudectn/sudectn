@@ -12,7 +12,7 @@
 - 🔭 Working on: ERP Develop
 - 🌱 Learning: ChatGPT API using
 - 🗣️ Languages: English B2
-- 📫 Contact me: [E-posta adresiniz]
+- 📫 Contact me: sudecetin03@gmail.com
 
 ## Projects
 [![Fruit Recognition with ML]](https://github.com/sudectn/Fruit-Recognition-with-ML#)
