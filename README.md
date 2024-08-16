@@ -16,6 +16,7 @@
 
 ## Projects
 [![Fruit Recognition with ML]](https://github.com/sudectn/Fruit-Recognition-with-ML#)
+[![person-detection]](https://github.com/sudectn/person-detection#)
 
 <!--## GitHub İstatistikleri
 ![Kullanıcı Adı'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
